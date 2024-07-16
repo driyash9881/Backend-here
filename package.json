@@ -1,0 +1,20 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "a simple manager for different use",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js" ,
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "priya tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
